@@ -60,7 +60,7 @@ Lecture note
 
 | Assignments        | Due date |
 |--------------------|----------|
-| [HW1](./hw1.pdf)   | 9/23     |
+| [HW1](./examples.pdf)   | 9/23     |
 | [HW2](./hw2.pdf)   | 9/30     |
 | [HW3](./hw3.pdf)   | 10/14    |
 | [HW4](./hw4.pdf)   | 10/21    |
