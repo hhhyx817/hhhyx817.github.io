@@ -1,6 +1,6 @@
 baseURL: "https://liyingli-math.gitee.io"
 defaultContentLanguage : "en"
-title: "LI Liying's Homepage"
+title: "Huang Yunxin's Homepage"
 
      
 theme: "PaperMod"
@@ -39,22 +39,22 @@ menu:
       name: Home
       url: /
       weight: 1
-    - identifier: personal
-      name: CV
-      url: /cv/
-      weight: 5
-    - identifier: research
-      name: Research
-      url: /research/
-      weight: 10
+    #- identifier: personal
+    #  name: CV
+    #  url: /cv/
+    #  weight: 5
+    #- identifier: research
+    # name: Research
+    # url: /research/
+    # weight: 10
     - identifier: teaching
       name: Teaching
       url: /teaching/all-courses
       weight: 20
-    - identifier: other
-      name: Other
-      url: /Other/
-      weight: 30
+    #- identifier: other
+    #  name: Other
+    #  url: /Other/
+    #  weight: 30
     # - identifier: sustech
     #   name: SUSTech
     #   url: "https://math.sustech.edu.cn/?lang=en"

@@ -35,7 +35,7 @@ Algebariac closure(not covered in final), straightedge examples(TO BE DONE), fin
 [Lect 18](./L18.pdf)   
 Simple extension(relation with finite/algebra field, etc.), separable
 
-[Lect 19](./L19.pdf) 
+[Lect 19](./L19.pdf)   
 Splitting field, Galois group(intro)
 
 [Lect 20](./L20.pdf)   
@@ -44,7 +44,7 @@ Galois group(properties relevent to finite/splitting/normal/separable etc.)
 [Lect 21](./L21.pdf)   
 Galois group(Gal=Sp, automorphism, classic examples)
 
-[Lect 22](./L22.pdf) 
+[Lect 22](./L22.pdf)   
 Proof of Galois theorem  
 
 [Examples](./examples.pdf)  
