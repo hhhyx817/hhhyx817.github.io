@@ -9,11 +9,10 @@ draft = false
 -   Time: Tue 10 am-12 pm, Thur 10 am-12 pm(biweekly), Thur 2 pm-4 pm(Tutorial by TA) 
 -   Grade: 83/100 (B)
 -   Weakness: Ring theory(to show prime, irreducible; number theory) 
--   Grading scheme:  |-------------------------|-----|
-                     | Participation           | 5%  |                
-                     | Quiz(based on homework) | 15% |
-                     | Mid-term                | 30% |        
-                     | Final                   | 50% |        
+-   Grading scheme:  Participation            5%                  
+                     Quiz(based on homework)  15% 
+                     Mid-term                 30%         
+                     Final                    50%         
 
 
 
@@ -27,8 +26,8 @@ references
 
 my course note
 
-|[Lect 16](./L16.pdf)   |
-|Review of field properties, algebra & transcendental extension(degree, minimal poly, automorphism etc.)|
+[Lect 16](./L16.pdf)   
+Review of field properties, algebra & transcendental extension(degree, minimal poly, automorphism etc.)
 
 [Lect 17](./L17.pdf)   
 Algebariac closure(not covered in final), straightedge examples(TO BE DONE), finite field(details in the 'Examples' section)
@@ -50,4 +49,4 @@ Proof of Galois theorem
 
 [Examples](./examples.pdf)  
 Examples on Galois Group, Finite Field(Frobenius etc.), Semi-direct product, Group classification, Euclidean norm, Group action, Field automorphism lifting
-                                                         |
+                                                         
