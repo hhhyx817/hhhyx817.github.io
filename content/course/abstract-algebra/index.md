@@ -19,7 +19,7 @@ draft = false
 
 ## Reference {#reference}
  
--   David S. Dummit, Richard M. Foote [Abstract Algebra]
+-   David S. Dummit, Richard M. Foote [Abstract Algebra](https://www.scribd.com/document/39232898/DummitFooteAbstractAlgebra)
 -   Joseph Gallian [Contemporary Abstract Algebra](./Contemporary-Abstract-Algebra.pdf)
 -   赵春来, 徐明曜 [抽象代数1](./抽象代数1.pdf)
 -   TA [Lecture Notes](https://github.com/hhhyx817/draft/tree/main/TA-notes)
