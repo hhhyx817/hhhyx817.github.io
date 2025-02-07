@@ -23,15 +23,45 @@ draft = false
 -   Joseph Gallian [Contemporary Abstract Algebra](./Contemporary-Abstract-Algebra.pdf)
 -   赵春来, 徐明曜 [抽象代数1](./抽象代数1.pdf)
 
-My notes include additional theorems and proofs based on TA's notes, along with somemy personal annotations and understanding.<br>   
-"in page xx" refers to Dummit's, "CAA page xx" refers to Joseph's, otherwise, refer to 抽象代数1.<br>   
+My notes include some personal annotations and additional theorems on TA's notes. "in page xx" refers to Dummit's, "CAA page xx" refers to Joseph's, otherwise, refer to 抽象代数1.<br>   
 I think Joseph's is most suitable for beginnner or self-learning, then refer to Dummit's for further theorems and properties.
 
 
 ## My Course Note{#my-course-note}
-Notes on field theory are relatively well-organized. The notes on group theory have some unresolved issues and most are written in Chinese. <br>   
+Notes on field theory are relatively well-organized, but those on group theory have some unresolved issues and most are written in Chinese. <br>   
 The order is "Group Theory" --> "Ring Theory" --> "Field Theory". <br>   
-Feel free to contact me for discussions on notes and on abstract algebra!
+
+-   Group Theory:
+
+[Lect 2](./L2.pdf)<br>   
+Group definitions and properties, coset, quotient group, lagerange theorem, little ferma theorem  --- P1-13 in 抽象代数1; or Chapter 1,2 3,7 in Joseph's<br>
+
+[Lect 3](./L3.pdf)<br>   
+Definition of Automorphism, homomorephism/automorphism theorem(Lect4 followed)  --- Chapter 6 in Joseph's<br>  
+
+[Lect 4](./L4.pdf)<br>   
+Cyclic group(Lect5 followed) , dihedral group, symmetry group and permutation, automorphism theorem<br>  
+
+[Lect 5](./L5.pdf)<br>   
+Direct product, fundamental theorem of finite abelian groups, cyclic group and generator<br>  
+
+[Lect 8](./L8.pdf)<br>   
+Reprove fundamental theorem of finite abelian groups, commutator, solvable group<br>  
+
+[Lect 9](./L9.pdf)<br>   
+A5 is simple(the same with n >=5), properties for An/Sn, caley theorem<br>  
+
+[Lect 10](./L10.pdf)<br>   
+Group action, properties for p-groups, orbit stablizer theorem<br>  
+
+[Lect 11](./L11.pdf)<br>   
+Sylow theorem, the number of cyclic groups of specific order<br>  
+
+Lect 12 (see TA's notes)<br>   
+Subnormal chain, semi-direct product(see in Examples section)<br>  
+
+[Lect automorphism group of cyclic group](./automorphism-group-of-cyclic-group.pdf)<br>   
+Automorphism group of cyclic groups and their direct products  
 
 -   Ring Theory:   
 
@@ -76,34 +106,4 @@ Proof of Galois theorem<br>
 [Examples](./examples.pdf)<br>   
 Examples on Galois Group, Finite Field(Frobenius etc.), Semi-direct product, Group classification, Euclidean norm, Group action, Field automorphism lifting
 
--   Group Theory:
 
-[Lect 2](./L2.pdf)<br>   
-Group definitions and properties, coset, quotient group, lagerange theorem, little ferma theorem  --- P1-13 in 抽象代数1; or Chapter 1,2 3,7 in Joseph's<br>
-
-[Lect 3](./L3.pdf)<br>   
-Definition of Automorphism, homomorephism/automorphism theorem(Lect4 followed)  --- Chapter 6 in Joseph's<br>  
-
-[Lect 4](./L4.pdf)<br>   
-Cyclic group(Lect5 followed) , dihedral group, symmetry group and permutation, automorphism theorem<br>  
-
-[Lect 5](./L5.pdf)<br>   
-Direct product, fundamental theorem of finite abelian groups, cyclic group and generator<br>  
-
-[Lect 8](./L8.pdf)<br>   
-Reprove fundamental theorem of finite abelian groups, commutator, solvable group<br>  
-
-[Lect 9](./L9.pdf)<br>   
-A5 is simple(the same with n >=5), properties for An/Sn, caley theorem<br>  
-
-[Lect 10](./L10.pdf)<br>   
-Group action, properties for p-groups, orbit stablizer theorem<br>  
-
-[Lect 11](./L11.pdf)<br>   
-Sylow theorem, the number of cyclic groups of specific order<br>  
-
-Lect 12 (see TA's notes)<br>   
-Subnormal chain, semi-direct product(see in Examples section)<br>  
-
-[Lect automorphism group of cyclic group](./automorphism-group-of-cyclic-group.pdf)<br>   
-Automorphism group of cyclic groups and their direct products  
