@@ -22,6 +22,7 @@ draft = false
 -   David S. Dummit, Richard M. Foote [Abstract Algebra]
 -   Joseph Gallian [Contemporary Abstract Algebra](./Contemporary-Abstract-Algebra.pdf)
 -   赵春来, 徐明曜 [抽象代数1](./抽象代数1.pdf)
+-   TA [Lecture Notes](./TA-notes/)
 
 My notes include personal annotations and additional theorems on TA's notes. "in page xx" refers to Dummit's, "CAA page xx" refers to Joseph's, otherwise refer to 抽象代数.<br>   
 I think Joseph's is most suitable for beginnner or self-learning, then refer to Dummit's for further theorems and properties.
@@ -30,6 +31,12 @@ I think Joseph's is most suitable for beginnner or self-learning, then refer to 
 ## My Course Note{#my-course-note}
 Notes on field theory are relatively well-organized, but those on group theory have some unresolved issues and most are written in Chinese. <br>   
 The order is "Group Theory" --> "Ring Theory" --> "Field Theory". <br>   
+
+[Lect automorphism group of cyclic group](./automorphism-group-of-cyclic-group.pdf)<br>   
+Automorphism group of cyclic groups and their direct products<br>  
+
+[Examples](./examples.pdf)<br>   
+Examples on Galois Group, Finite Field(Frobenius etc.), Semi-direct product, Group classification, Euclidean norm, Group action, Field automorphism lifting
 
 -   Group Theory:
 
@@ -59,9 +66,7 @@ Sylow theorem, the number of cyclic groups of specific order<br>
 
 Lect 12 (see TA's notes)<br>   
 Subnormal chain, semi-direct product(see in Examples section)<br>  
-
-[Lect automorphism group of cyclic group](./automorphism-group-of-cyclic-group.pdf)<br>   
-Automorphism group of cyclic groups and their direct products  
+ 
 
 -   Ring Theory:   
 
@@ -103,7 +108,6 @@ Galois group(Gal=Sp, automorphism, classic examples)<br>
 [Lect 22](./L22.pdf)<br>   
 Proof of Galois theorem<br>  
 
-[Examples](./examples.pdf)<br>   
-Examples on Galois Group, Finite Field(Frobenius etc.), Semi-direct product, Group classification, Euclidean norm, Group action, Field automorphism lifting
+
 
 
