@@ -22,7 +22,7 @@ draft = false
 -   David S. Dummit, Richard M. Foote [Abstract Algebra]
 -   Joseph Gallian [Contemporary Abstract Algebra](./Contemporary-Abstract-Algebra.pdf)
 -   赵春来, 徐明曜 [抽象代数1](./抽象代数1.pdf)
--   TA [Lecture Notes](./TA-notes/)
+-   TA [Lecture Notes](https://github.com/hhhyx817/draft/tree/main/TA-notes)
 
 My notes include personal annotations and additional theorems on TA's notes. "in page xx" refers to Dummit's, "CAA page xx" refers to Joseph's, otherwise refer to 抽象代数.<br>   
 I think Joseph's is most suitable for beginnner or self-learning, then refer to Dummit's for further theorems and properties.
