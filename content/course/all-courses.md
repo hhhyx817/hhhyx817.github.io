@@ -1,5 +1,5 @@
 +++
-title = "Teaching"
+title = "Course"
 draft = false
 +++
 

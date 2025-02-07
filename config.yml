@@ -47,9 +47,9 @@ menu:
     # name: Research
     # url: /research/
     # weight: 10
-    - identifier: teaching
-      name: Teaching
-      url: /teaching/all-courses
+    - identifier: course
+      name: Course
+      url: /course/all-courses
       weight: 20
     #- identifier: other
     #  name: Other
