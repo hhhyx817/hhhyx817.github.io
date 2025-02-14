@@ -69,7 +69,7 @@ Poisson kernel/approximate iddentity/green function and fundamental solution<br>
 Harmonic lifting, subharmonic<br>  
 
 [Lect 12 & 13](./L12&13.pdf)<br>   
-Perron’s method and Green’s function, Dirichlet principle(first variation and e Euler–Langrange equation), weak solution/sobolev space/weak convergence, poincare inequality<br>  
+Perron’s method and Green’s function, Dirichlet principle(first variation and Euler–Langrange equation), weak solution/sobolev space/weak convergence, poincare inequality<br>  
 Weak solution and weak convergence is beyond syllabus but sobolev space and norm is within.<br>  
 
 [Lect 14](./L14.pdf)<br>   
