@@ -28,8 +28,8 @@ references
 -   周蜀林, _偏微分方程_, 北京大学出版社
 
 
-[midterm review](./review-midterm.pdf)
-[final review](./review-final.pdf)  (really comprehensive!)
+[midterm review](./review-midterm.pdf)<br>  
+[final review](./review-final.pdf)  (really comprehensive!)<br>  
    
 I think this course is more suitable for senior students with the preliminaries ODE, functional analysis(lecture 11-12, 17-18), operation(lecture 20-21), or just reciting the proof of theorem will be difficult(like me...). And you need to have a good grasp of the transformation of various gradient formulas.
 
