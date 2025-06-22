@@ -1,113 +1,75 @@
 +++
-title = "Abstract Algebra (H), 2024 Fall"
+title = "Functional Analysis, 2025 Spring"
 draft = false
 +++
 
 ## Course Information {#course-information}
 
--   Instructor: Prof.Li Caiheng
--   Time: Tue 10 am-12 pm, Thur 10 am-12 pm(biweekly), Thur 2 pm-4 pm(Tutorial by TA) 
--   Grade: 83/100 (B)
+-   Instructor: Prof.Xia Changyu
+-   Time: Tue 2 pm-4 pm, Fri 2 pm-4 pm(Tutorial by TA) 
+-   Grade: 93/100 (A)
 -   Weakness: Ring theory(to show prime, irreducible; number theory) 
 -   | Grading scheme            | Percentage |
     |---------------------------|------------|
     | Participation             | 5%         |
-    | Quiz (based on homework)  | 15%        |
+    | Homework (weekly)         | 25%        |
     | Mid-term                  | 30%        |
-    | Final                     | 50%        |        
+    | Final                     | 40%        |        
 
 
 ## Reference {#reference}
  
--   David S. Dummit, Richard M. Foote [Abstract Algebra](https://www.scribd.com/document/39232898/DummitFooteAbstractAlgebra)
--   Joseph Gallian [Contemporary Abstract Algebra](./Contemporary-Abstract-Algebra.pdf)
--   赵春来, 徐明曜 [抽象代数1](./抽象代数1.pdf)
--   TA [Lecture Notes](https://github.com/hhhyx817/draft/tree/main/TA-notes)
+-  James C. Robinson [An Introduction to Functional Analysis](./JamesCRobinson.pdf)
 
-My notes include personal annotations and additional theorems on TA's notes. "in page xx" refers to Dummit's, "CAA page xx" refers to Joseph's, otherwise refer to 抽象代数.<br>   
-I think Joseph's is most suitable for beginner or self-learning, then refer to Dummit's for further theorems and properties.
+rmk: simple exercises corresponding to each theorem.<br>   
 
+## Homework {#homework}
+
+- [Lecture Notes](https://github.com/hhhyx817/draft/tree/main/TA-notes)
+
+## Lecture Note(part of) {#lecture-note}
+
+- [slides](https://github.com/hhhyx817/draft/tree/main/TA-notes)
 
 ## My Course Note{#my-course-note}
-Notes on field theory are relatively well-organized, but those on group theory have some unresolved issues and most are written in Chinese. <br>   
-The order is "Group Theory" --> "Ring Theory" --> "Field Theory". <br>   
+-   Metric Spaces:  
 
-[Lect automorphism group of cyclic group](./automorphism-group-of-cyclic-group.pdf)<br>   
-Automorphism group of cyclic groups and their direct products<br>  
+[Week 1](./W1.pdf)<br>  
 
-[Examples](./examples.pdf)<br>   
-Examples on Galois Group, Finite Field(Frobenius etc.), Semi-direct product, Group classification, Euclidean norm, Group action, Field automorphism lifting
+[Week 2](./W2.pdf)<br>  
 
--   Group Theory:
+-   Normed Linear Spaces:   
 
-[Lect 2](./L2.pdf)<br>   
-Group definitions and properties, coset, quotient group, lagerange theorem, little ferma theorem  --- P1-13 in 抽象代数1; or Chapter 1,2 3,7 in Joseph's<br>
+[Week 3](./W3.pdf)<br>  
 
-[Lect 3](./L3.pdf)<br>   
-Definition of Automorphism, homomorephism/automorphism theorem(Lect4 followed)  --- Chapter 6 in Joseph's<br>  
+[Week 4](./W4.pdf)<br>
 
-[Lect 4](./L4.pdf)<br>   
-Cyclic group(Lect5 followed) , dihedral group, symmetry group and permutation, automorphism theorem<br>  
+-   Linear Operators on Normed Spaces:  
 
-[Lect 5](./L5.pdf)<br>   
-Direct product, fundamental theorem of finite abelian groups, cyclic group and generator<br>  
+[Week 7]<br>
 
-[Lect 8](./L8.pdf)<br>   
-Reprove fundamental theorem of finite abelian groups, commutator, solvable group<br>  
+-   Hilbert Spaces:  
 
-[Lect 9](./L9.pdf)<br>   
-A5 is simple(the same with n >=5), properties for An/Sn, caley theorem<br>  
+[Week 5]<br>
 
-[Lect 10](./L10.pdf)<br>   
-Group action, properties for p-groups, orbit stablizer theorem<br>  
+[Week 6]<br>
 
-[Lect 11](./L11.pdf)<br>   
-Sylow theorem, the number of cyclic groups of specific order<br>  
+[Week 8]<br>  
 
-Lect 12 (see TA's notes)<br>   
-Subnormal chain, semi-direct product(see in Examples section)<br>  
- 
+[Week 9]<br>
 
--   Ring Theory:   
+[Week 10](./W10.pdf)<br>  
 
-[Lect 6](./L6.pdf)<br>   
-Ring definitons and properties, ideal, quotient ring, homomorephism/automorphism theorem for ring<br>  
+[Week 11](./W11.pdf)<br>
 
-Lect 13 (see TA's notes)<br>   
-Chinese remainder theorem, coprime rings, maximal/prime ideal<br>  
+-   Hahn-Banach Theorem:  
 
-[Lect 14](./L14.pdf)<br>   
-Integral domain, unique factorization domain, principle domain, irreducible and prime/primal ring/maximal<br>  
+[Week 12](./W12.pdf)<br>  
 
-[Lect 15](./L15.pdf)<br>   
-Euclidean domain, fraction field   
+[Week 13](./W13.pdf)<br>
 
--   Field Theory:    
+-   Banach Spaces:  
 
-[Lect 7](./L7.pdf)<br>   
-Field definitons and properties, raletions between ring and field, (just see Lect16)<br>  
+[Week 14](./W14.pdf)<br>  
 
-[Lect 16](./L16.pdf)<br>   
-Review of field properties, algebra & transcendental extension(degree, minimal poly, automorphism etc.)<br>  
-
-[Lect 17](./L17.pdf)<br>   
-Algebariac closure(not covered in final), straightedge examples(TO BE DONE), finite field(details in the 'Examples' section)<br>  
-
-[Lect 18](./L18.pdf)<br>   
-Simple extension(relation with finite/algebra field, etc.), separable<br>  
-
-[Lect 19](./L19.pdf)<br>   
-Splitting field, Galois group(intro)<br>  
-
-[Lect 20](./L20.pdf)<br>   
-Galois group(properties relevent to finite/splitting/normal/separable etc.)<br>  
-
-[Lect 21](./L21.pdf)<br>   
-Galois group(Gal=Sp, automorphism, classic examples)<br>
-
-[Lect 22](./L22.pdf)<br>   
-Proof of Galois theorem<br>  
-
-
-
-
+[Week 15](./W15.pdf)<br>
