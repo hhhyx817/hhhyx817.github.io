@@ -71,4 +71,6 @@ rmk: simple exercises corresponding to each theorem.<br>
 
 [Week 14](./W14.pdf)<br>  
 
-[Week 15](./W15.pdf)<br>
+[Week 15](./W15.pdf)<br>  
+
+[Week 16](./W16.pdf)<br>
