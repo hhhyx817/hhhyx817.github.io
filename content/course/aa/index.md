@@ -6,7 +6,7 @@ draft = false
 ## Course Information {#course-information}
 
 -   Instructor: Prof.Li Caiheng
--   Time: Tue 10 am-12 pm, Thur 10 am-12 pm(biweekly), Thur 2 pm-4 pm(Tutorial by TA) 
+-   Time: Tue 10 am-12 am, Thur 10 am-12 am(biweekly), Thur 2 pm-4 pm(Tutorial by TA) 
 -   Grade: 83/100 (B)
 -   Weakness: Ring theory(to show prime, irreducible; number theory) 
 -   | Grading scheme            | Percentage |
@@ -21,11 +21,12 @@ draft = false
  
 -   David S. Dummit, Richard M. Foote [Abstract Algebra](https://www.scribd.com/document/39232898/DummitFooteAbstractAlgebra)
 -   Joseph Gallian [Contemporary Abstract Algebra](./Contemporary-Abstract-Algebra.pdf)
--   赵春来, 徐明曜 [抽象代数1](./抽象代数1.pdf)
+-   赵春来, 徐明曜 [抽象代数1](./抽象代数1.pdf)  
+
 -   TA [Lecture Notes](https://github.com/hhhyx817/draft/tree/main/TA-notes)
 
-My notes include personal annotations and additional theorems on TA's notes. "in page xx" refers to Dummit's, "CAA page xx" refers to Joseph's, otherwise refer to 抽象代数.<br>   
-I think Joseph's is most suitable for beginner or self-learning, then refer to Dummit's for further theorems and properties.
+"in page xx" refers to Dummit's, "CAA page xx" refers to Joseph's, otherwise refer to 抽象代数.<br>   
+Joseph's is most suitable for beginner or self-learning, and refer to Dummit's for further theorems and properties.
 
 
 ## My Course Note{#my-course-note}
