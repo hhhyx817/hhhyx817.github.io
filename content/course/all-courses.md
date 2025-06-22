@@ -5,7 +5,7 @@ draft = false
 
 ## Math {#math}
 
-[Probability, 2023 Fall]({{< relref "probability" >}})<br>  
+[Probability, 2023 Fall] TBA
 
 [Abstract Algebra (H), 2024 Fall]({{< relref "aa" >}})<br>  
  
@@ -15,6 +15,6 @@ draft = false
 
 [Differential Geometry, 2025 Spring]({{< relref "diff-geo" >}})<br>
 
-[Topology, 2025 Fall]({{< relref "Topology" >}})<br>  
+[Topology, 2025 Fall] TBA
 
 
