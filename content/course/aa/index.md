@@ -25,7 +25,7 @@ draft = false
 
 -   TA [Lecture Notes](https://github.com/hhhyx817/draft/tree/main/TA-notes)
 
-"in page xx" refers to Dummit's, "CAA page xx" refers to Joseph's, otherwise refer to 抽象代数.<br>   
+ "in page xx" refers to Dummit's, "CAA page xx" refers to Joseph's, otherwise refer to 抽象代数.<br>   
 Joseph's is most suitable for beginner or self-learning, and refer to Dummit's for further theorems and properties.
 
 
