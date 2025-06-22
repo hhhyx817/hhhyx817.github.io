@@ -8,7 +8,6 @@ draft = false
 -   Instructor: Prof.Xia Changyu
 -   Time: Tue 2 pm-4 pm, Fri 2 pm-4 pm(Tutorial by TA) 
 -   Grade: 93/100 (A)
--   Weakness: Ring theory(to show prime, irreducible; number theory) 
 -   | Grading scheme            | Percentage |
     |---------------------------|------------|
     | Participation             | 5%         |
@@ -25,11 +24,11 @@ rmk: simple exercises corresponding to each theorem.<br>
 
 ## Homework {#homework}
 
-- [Lecture Notes](https://github.com/hhhyx817/draft/tree/main/TA-notes)
+- [Homework Week1-16](https://github.com/hhhyx817/draft/tree/main/FA_HW)
 
 ## Lecture Note(part of) {#lecture-note}
 
-- [slides](https://github.com/hhhyx817/draft/tree/main/TA-notes)
+- [slides](https://github.com/hhhyx817/draft/tree/main/FA_slides)
 
 ## My Course Note{#my-course-note}
 -   Metric Spaces:  
