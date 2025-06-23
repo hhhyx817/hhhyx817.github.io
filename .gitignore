@@ -51,8 +51,6 @@ flycheck_*.el
 # hugo theme folder
 # /themes
 
-# public site
-/public
 
 # org cache
 /static/ltximg
