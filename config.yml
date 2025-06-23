@@ -28,7 +28,7 @@ menu:
       weight: 1
     - identifier: course
       name: Course
-      url: /course/all-courses
+      url: /course/
       weight: 20
 
 markup:
