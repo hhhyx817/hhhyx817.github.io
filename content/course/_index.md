@@ -1,5 +1,6 @@
 +++
 title = "Course"
+layout = "single"
 draft = false
 +++
 
