@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Homepage on Huang Yunxin&#39;s Homepage</title>
+    <link>https://liyingli-math.gitee.io/</link>
+    <description>Recent content in Homepage on Huang Yunxin&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://liyingli-math.gitee.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abstract Algebra (H), 2024 Fall</title>
+      <link>https://liyingli-math.gitee.io/course/aa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liyingli-math.gitee.io/course/aa/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Instructor: Prof.Li Caiheng&lt;/li&gt;
+&lt;li&gt;Time: Tue 10 am-12 am, Thur 10 am-12 am(biweekly), Thur 2 pm-4 pm(Tutorial by TA)&lt;/li&gt;
+&lt;li&gt;Grade: 83/100 (B)&lt;/li&gt;
+&lt;li&gt;Weakness: Ring theory(to show prime, irreducible; number theory)&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Grading scheme&lt;/th&gt;
+          &lt;th&gt;Percentage&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Participation&lt;/td&gt;
+          &lt;td&gt;5%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Quiz (based on homework)&lt;/td&gt;
+          &lt;td&gt;15%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mid-term&lt;/td&gt;
+          &lt;td&gt;30%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Final&lt;/td&gt;
+          &lt;td&gt;50%&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;David S. Dummit, Richard M. Foote &lt;a href=&#34;https://www.scribd.com/document/39232898/DummitFooteAbstractAlgebra&#34;&gt;Abstract Algebra&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Joseph Gallian &lt;a href=&#34;./Contemporary-Abstract-Algebra.pdf&#34;&gt;Contemporary Abstract Algebra&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;赵春来, 徐明曜 &lt;a href=&#34;./%E6%8A%BD%E8%B1%A1%E4%BB%A3%E6%95%B01.pdf&#34;&gt;抽象代数1&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TA &lt;a href=&#34;https://github.com/hhhyx817/draft/tree/main/TA-notes&#34;&gt;Lecture Notes&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;ldquo;in page xx&amp;rdquo; refers to Dummit&amp;rsquo;s, &amp;ldquo;CAA page xx&amp;rdquo; refers to Joseph&amp;rsquo;s, otherwise refer to 抽象代数.&lt;br&gt;&lt;br&gt;
+Joseph&amp;rsquo;s is most suitable for beginner or self-learning, and refer to Dummit&amp;rsquo;s for further theorems and properties.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Applied Abstract Algebra, 2025 Spring</title>
+      <link>https://liyingli-math.gitee.io/course/diff-geo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liyingli-math.gitee.io/course/diff-geo/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Instructor: Prof. Man Shun Ma&lt;/li&gt;
+&lt;li&gt;Time: Mon 10 am-12 pm, Thur 2 pm-4 pm(biweekly)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+&lt;p&gt;references&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;M. DoCarmo. &lt;a href=&#34;./Do-Carmo.pdf&#34;&gt;Differential Geometry of Curves and Surfaces&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;my-course-note&#34;&gt;My Course Note&lt;/h2&gt;
+&lt;p&gt;TBA&lt;/p&gt;
+&lt;h2 id=&#34;my-course-note&#34;&gt;My Homework&lt;/h2&gt;
+&lt;p&gt;TBA&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Course</title>
+      <link>https://liyingli-math.gitee.io/course/all-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liyingli-math.gitee.io/course/all-courses/</guid>
+      <description>&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;[Probability, 2023 Fall] TBA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://liyingli-math.gitee.io/course/aa/&#34;&gt;Abstract Algebra (H), 2024 Fall&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://liyingli-math.gitee.io/course/pde/&#34;&gt;Partial Differential Equation (H), 2024 Fall&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://liyingli-math.gitee.io/course/functional-ana/&#34;&gt;Functional Analysis, 2025 Spring&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://liyingli-math.gitee.io/course/diff-geo/&#34;&gt;Differential Geometry, 2025 Spring&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[Topology, 2025 Fall] TBA&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Functional Analysis, 2025 Spring</title>
+      <link>https://liyingli-math.gitee.io/course/functional-ana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liyingli-math.gitee.io/course/functional-ana/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Instructor: Prof.Xia Changyu&lt;/li&gt;
+&lt;li&gt;Time: Tue 2 pm-4 pm, Fri 2 pm-4 pm(Tutorial by TA)&lt;/li&gt;
+&lt;li&gt;Grade: 93/100 (A)&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Grading scheme&lt;/th&gt;
+          &lt;th&gt;Percentage&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Participation&lt;/td&gt;
+          &lt;td&gt;5%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Homework (weekly)&lt;/td&gt;
+          &lt;td&gt;25%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mid-term&lt;/td&gt;
+          &lt;td&gt;30%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Final&lt;/td&gt;
+          &lt;td&gt;40%&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;James C. Robinson &lt;a href=&#34;./JamesCRobinson.pdf&#34;&gt;An Introduction to Functional Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;rmk: simple exercises corresponding to each theorem.&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hhhyx817/draft/tree/main/FA_HW&#34;&gt;Homework Week1-16&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-note&#34;&gt;Lecture Note(part of)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hhhyx817/draft/tree/main/FA_slides&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;my-course-note&#34;&gt;My Course Note&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Metric Spaces:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;./W1.pdf&#34;&gt;Week 1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;./W2.pdf&#34;&gt;Week 2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Normed Linear Spaces:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;./W3.pdf&#34;&gt;Week 3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;./W4.pdf&#34;&gt;Week 4&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linear Operators on Normed Spaces:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[Week 7]&lt;br&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Partial Differential Equation (H), 2024 Fall</title>
+      <link>https://liyingli-math.gitee.io/course/pde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liyingli-math.gitee.io/course/pde/</guid>
+      <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Instructor: Prof.Li Liying&lt;/li&gt;
+&lt;li&gt;Time: Mon 10 am-12 pm, Wed 10 am-12 pm(biweekly)&lt;/li&gt;
+&lt;li&gt;Grade: 91/100 (A-)&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Grading scheme&lt;/th&gt;
+          &lt;th&gt;Percentage&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Participation&lt;/td&gt;
+          &lt;td&gt;5%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Quiz (based on homework)&lt;/td&gt;
+          &lt;td&gt;20%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mid-term&lt;/td&gt;
+          &lt;td&gt;25%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Final&lt;/td&gt;
+          &lt;td&gt;50%&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+&lt;p&gt;Official course materials&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://liyingli-math.github.io/teaching/mat336-2024f/&#34;&gt;https://liyingli-math.github.io/teaching/mat336-2024f/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;references&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Evans, Lawrence C.,  &lt;em&gt;Partial Differential Equations&lt;/em&gt;. Vol 19 Chapter 1-10, Graduate Studies in Mathematics, AMS&lt;/li&gt;
+&lt;li&gt;Strauss, Walter A., &lt;em&gt;Partial Differential Equations: An Introduction&lt;/em&gt;. 2nd ed, Wiley, 2008&lt;/li&gt;
+&lt;li&gt;周蜀林, &lt;em&gt;偏微分方程&lt;/em&gt;, 北京大学出版社&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;./review-midterm.pdf&#34;&gt;midterm review&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+&lt;a href=&#34;./review-final.pdf&#34;&gt;final review&lt;/a&gt;  (really comprehensive!)&lt;br&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
