@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Homepage on Huang Yunxin&#39;s Homepage</title>
-    <link>https://liyingli-math.gitee.io/</link>
+    <link>https://hhhyx817.github.io/</link>
     <description>Recent content in Homepage on Huang Yunxin&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://liyingli-math.gitee.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://hhhyx817.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abstract Algebra (H), 2024 Fall</title>
-      <link>https://liyingli-math.gitee.io/course/aa/</link>
+      <link>https://hhhyx817.github.io/course/aa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://liyingli-math.gitee.io/course/aa/</guid>
+      <guid>https://hhhyx817.github.io/course/aa/</guid>
       <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Instructor: Prof.Li Caiheng&lt;/li&gt;
@@ -68,10 +68,10 @@ Joseph&amp;rsquo;s is most suitable for beginner or self-learning, and refer to 
     
     <item>
       <title>Applied Abstract Algebra, 2025 Spring</title>
-      <link>https://liyingli-math.gitee.io/course/diff-geo/</link>
+      <link>https://hhhyx817.github.io/course/diff-geo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://liyingli-math.gitee.io/course/diff-geo/</guid>
+      <guid>https://hhhyx817.github.io/course/diff-geo/</guid>
       <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Instructor: Prof. Man Shun Ma&lt;/li&gt;
@@ -89,26 +89,11 @@ Joseph&amp;rsquo;s is most suitable for beginner or self-learning, and refer to 
     </item>
     
     <item>
-      <title>Course</title>
-      <link>https://liyingli-math.gitee.io/course/all-courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://liyingli-math.gitee.io/course/all-courses/</guid>
-      <description>&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;[Probability, 2023 Fall] TBA&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://liyingli-math.gitee.io/course/aa/&#34;&gt;Abstract Algebra (H), 2024 Fall&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://liyingli-math.gitee.io/course/pde/&#34;&gt;Partial Differential Equation (H), 2024 Fall&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://liyingli-math.gitee.io/course/functional-ana/&#34;&gt;Functional Analysis, 2025 Spring&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://liyingli-math.gitee.io/course/diff-geo/&#34;&gt;Differential Geometry, 2025 Spring&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;[Topology, 2025 Fall] TBA&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Functional Analysis, 2025 Spring</title>
-      <link>https://liyingli-math.gitee.io/course/functional-ana/</link>
+      <link>https://hhhyx817.github.io/course/functional-ana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://liyingli-math.gitee.io/course/functional-ana/</guid>
+      <guid>https://hhhyx817.github.io/course/functional-ana/</guid>
       <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Instructor: Prof.Xia Changyu&lt;/li&gt;
@@ -175,10 +160,10 @@ Joseph&amp;rsquo;s is most suitable for beginner or self-learning, and refer to 
     
     <item>
       <title>Partial Differential Equation (H), 2024 Fall</title>
-      <link>https://liyingli-math.gitee.io/course/pde/</link>
+      <link>https://hhhyx817.github.io/course/pde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://liyingli-math.gitee.io/course/pde/</guid>
+      <guid>https://hhhyx817.github.io/course/pde/</guid>
       <description>&lt;h2 id=&#34;course-information&#34;&gt;Course Information&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Instructor: Prof.Li Liying&lt;/li&gt;
