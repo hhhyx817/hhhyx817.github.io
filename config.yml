@@ -29,6 +29,7 @@ menu:
     - identifier: course
       name: Course
       page: "course/_index.md"
+      url: "/course/"
       weight: 20
 
 markup:
