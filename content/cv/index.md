@@ -23,8 +23,8 @@ draft = false
 - Partial Differential Equations (Honors, 91)  
 - Data Structures and Algorithm Analysis (93)  
 - Topology (University of Toronto, A+)
-- Problem Solving Seminar (in University of Toronto, A+)
-- Set Theory (University of Toronto, graduate level, in progress)  
+- Problem Solving Seminar (University of Toronto, A+)
+- Set Theory (University of Toronto, in progress)  
 
 ---
 
