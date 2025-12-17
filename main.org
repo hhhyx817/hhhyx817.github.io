@@ -1,0 +1,234 @@
+#+HUGO_BASE_DIR: .
+#+options: creator:nil author:nil
+* Homepage
+:PROPERTIES:
+:EXPORT_FILE_NAME: _index
+:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_TYPE: homepage
+:END:
+
+[[/photo.jpg]]
+
+My name is *Yunxin Huang* (黄云歆).  
+I am an undergraduate student in the Math Department at [[https://math.sustech.edu.cn/?lang=cn][SUSTech]], Shenzhen, China.
+
+- *email*: yunxinh55@gmail.com
+
+
+
+ 
+
+* CV
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_BUNDLE: cv
+:EXPORT_FILE_NAME: index
+:CUSTOM_ID: cv
+:END:
+
+** Education
+- *Southern University of Science and Technology (SUSTech)*, Shenzhen, China  
+  B.S. in Mathematics and Applied Mathematics, /2024–2026/  
+  Undergraduate Studies in Statistics and Data Science, /2022–2024/  
+  GPA: *3.85 / 4.00*, Rank: *10 / 101*
+
+- *University of Toronto*, Toronto, Canada  
+  Semester Exchange in Mathematics and Applied Mathematics, /Fall 2025/
+
+** Selected Coursework
+- Functional Analysis (93)
+- Abstract Algebra (Honors, 85)
+- Differential Geometry (90)
+- Real Analysis (Honors, 72)
+- Partial Differential Equations (Honors, 91)
+- Data Structures and Algorithm Analysis (93)
+- Topology (U of T, A+)
+- Problem Solving Seminar (U of T, A+)
+- Set Theory (U of T, graduate level, in progress)
+
+** Research Experience
+*** Multiple Testing Methods for Forgery Detection with Conformal Risk Control
+Southern University of Science and Technology  
+Advisor: Assistant Professor Hongxin Wei
+
+- Pixel-wise and cluster-wise forgery detection
+- FDR control under conformal prediction
+
+*** Subspace Diffusion and Linear Reconstruction (Ongoing)
+University of British Columbia  
+Advisor: Yankai Cao
+
+- Subspace diffusion analysis
+- Low-rank linear reconstruction for stability
+
+** Skills
+- *Programming*: Python, Java, R, Scala, MATLAB
+- *Models*: Diffusion models, VAE, neural networks
+- *Others*: Linux shell, web scraping
+
+** Language
+- Chinese (native)
+- TOEFL: *107* (R30 L30 S22 W25)
+
+** Awards
+- Outstanding Student (SUSTech)
+- Merit Student Scholarship (First / Second Class)
+
+
+
+
+
+* Coursework
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: /
+  :EXPORT_HUGO_BUNDLE: coursework
+  :EXPORT_FILE_NAME: all-courses
+  :CUSTOM_ID: all-courses
+  :END:
+
+*** Southern University of Science and Technology
+- [[{{< relref "aa" >}}][MA219 Abstract Algebra (H), 2024 Fall]]
+- [[{{< relref "pde" >}}][MA336 Partial Differential Equations (H), 2024 Fall]]
+- [[{{< relref "functional-ana" >}}][MA302 Functional Analysis, 2025 Spring]]
+- [[{{< relref "diff-geo" >}}][MA327 Differential Geometry, 2025 Spring]]
+
+*** University of Toronto
+- [[{{< relref "topo" >}}][MAT327 Topology, 2025 Fall]]
+- [[{{< relref "seminar" >}}][MAT475 Problem Solving Seminar, 2025 Fall]]
+- [[{{< relref "set-theory" >}}][MAT409 / MAT1404 Set Theory, 2025 Fall]]
+
+
+*** Functional Analysis, 2025 Spring
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: coursework
+:EXPORT_HUGO_BUNDLE: functional-ana
+:EXPORT_FILE_NAME: index
+:END:
+
+**** Course Information
+- Instructor: Prof. Xia Changyu
+- Time: Tue 2 pm–4 pm, Fri 2 pm–4 pm (Tutorial by TA)
+- Grade: 93/100 (A)
+
+**** Reference
+- James C. Robinson [[./JamesCRobinson.pdf][An Introduction to Functional Analysis]]
+
+**** My Homework
+- [[https://github.com/hhhyx817/draft/tree/main/FA_HW][Homework Week 1–16]]
+
+**** Lecture Note (part of)
+- [[https://github.com/hhhyx817/draft/tree/main/FA_slides][slides]]
+
+**** My Course Note
+***** Metric Spaces
+- [[./W1.pdf][Week 1]]
+- [[./W2.pdf][Week 2]]
+
+***** Normed Linear Spaces
+- [[./W3.pdf][Week 3]]
+- [[./W4.pdf][Week 4]]
+
+***** Linear Operators on Normed Spaces
+- Week 7
+
+***** Hilbert Spaces
+- Week 5
+- Week 6
+- Week 8
+- Week 9
+- [[./W10.pdf][Week 10]]
+- [[./W11.pdf][Week 11]]
+
+***** Hahn–Banach Theorem
+- [[./W12.pdf][Week 12]]
+- [[./W13.pdf][Week 13]]
+
+***** Banach Spaces
+- [[./W14.pdf][Week 14]]
+- [[./W15.pdf][Week 15]]
+- [[./W16.pdf][Week 16]]
+
+
+*** Partial Differential Equation (H), 2024 Fall
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: coursework
+:EXPORT_HUGO_BUNDLE: pde
+:EXPORT_FILE_NAME: index
+:END:
+
+**** Course Information
+- Instructor: Prof. Li Liying
+- Time: Mon 10 am–12 pm, Wed 10 am–12 pm (biweekly)
+- Grade: 91/100 (A-)
+
+**** Reference
+Official course materials  
+- https://liyingli-math.github.io/teaching/mat336-2024f/
+
+References:
+- Evans, Lawrence C., /Partial Differential Equations/, GSM 19, AMS
+- Strauss, Walter A., /Partial Differential Equations: An Introduction/, Wiley
+- 周蜀林，《偏微分方程》，北京大学出版社
+
+- [[./review-midterm.pdf][Midterm review]]
+- [[./review-final.pdf][Final review]] (really comprehensive!)
+
+
+**** My Course Note
+- [[./L2.pdf][Lect 2]]  
+  Simple examples on characteristic methods.
+
+- [[./L3.pdf][Lect 3]]  
+  Fourier transform, homogeneous heat equation.
+
+- [[./L4.pdf][Lect 4]]  
+  Nonhomogeneous heat equation, Duhamel’s principle.
+
+- [[./L5&6.pdf][Lect 5 & 6]]  
+  Eigenpairs, separation of variables.
+
+- [[./L7.pdf][Lect 7]]  
+  Maximum principle, L-stability.  
+  [[./ref7.pdf][Reference for Lect 7]]
+
+- [[./L8.pdf][Lect 8]]  
+  Energy method, backward heat equation.
+
+- [[./L9.pdf][Lect 9]]  
+  Poisson equation, Green’s function.  
+  [[./ref9.pdf][Reference for Lect 9]]
+
+- Lect 10  
+  Poisson kernel, approximate identity.
+
+- [[./L11-second-half.pdf][Lect 11 (second half)]]  
+  Harmonic lifting, subharmonic functions.
+
+- [[./L12&13.pdf][Lect 12 & 13]]  
+  Perron’s method, Dirichlet principle, weak solutions.
+
+- [[./L14.pdf][Lect 14]]  
+  Wave equation, L-stability.
+
+- [[./L15.pdf][Lect 15]]  
+  Wave equation in higher dimensions.
+
+- Lect 16  
+  Separation of variables.
+
+- Lect 17 & 18  
+  Existence and uniqueness of weak solutions.
+
+- [[./L19.pdf][Lect 19]]  
+  Fixed point method, Hamilton–Jacobi equation.
+
+- [[./L20.pdf][Lect 20]]  
+  Legendre transform, Hopf–Lax formula.  
+  [[./ref20.pdf][Reference for Lect 20]]
+
+- Lect 21  
+  Hopf–Lax formula (space dimension).
+
+- [[./L22.pdf][Lect 22]]  
+  Characteristic methods, entropy condition.  
+  [[./proof22.pdf][Proof for Lect 22]]
