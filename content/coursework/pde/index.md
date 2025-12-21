@@ -13,25 +13,13 @@ layout: "single"
 
 ## Reference {#reference}
 
-Official course materials
--   https://liyingli-math.github.io/teaching/mat336-2024f/
-
-references
-
 -   Evans, Lawrence C.,  _Partial Differential Equations_. Vol 19 Chapter 1-10, Graduate Studies in Mathematics, AMS
 -   Strauss, Walter A., _Partial Differential Equations: An Introduction_. 2nd ed, Wiley, 2008
 -   周蜀林, _偏微分方程_, 北京大学出版社
 
-
-[midterm review](./review-midterm.pdf)<br>  
-[final review](./review-final.pdf)  (really comprehensive!)<br>  
-   
-I think this course is more suitable for senior students with the preliminaries ODE, functional analysis(lecture 11-12, 17-18), operation(lecture 20-21), or just reciting the proof of theorem will be difficult(like me...). And you need to have a good grasp of the transformation of various gradient formulas.
-
-
 ## My Course Note{#my-course-note}
 
-Due to time constraints, my notes include the key points for the exam. I did not take notes on topics that are beyond the syllabus or not emphasized. 
+Due to time constraints, my notes only include the key points for the exam.
 
 [Lect 2](./L2.pdf)<br>   
 Simple examples on characteristic methods.(See Lect 22 for further explanation)<br>
@@ -87,16 +75,13 @@ Fixed point method, halmilton-jacobi equation, caculus of variation(further proo
 Legendre transform and duality, hopf-lax formula(in time dimension)<br>  
 [reference for Lect 20](./ref20.pdf)<br> 
 Hopf-lax formula(in time dimension)<br>  
-This ref is not a very nice one<br>  
 
 [Lect 21]<br>     
-Hopf-lax formula(in space dimension), Beyond syllabus<br>
+Hopf-lax formula(in space dimension)<br>
 
 [Lect 22](./L22.pdf)<br>   
 Examples on characteristic methods/entrophy condition/viscosity solution<br>  
-[proof for Lect 22](./proof22.pdf)<br>   
-Proof and examples of above mentioned topics, Beyond syllabus<br>  
-This ref is really really nice!
+
 
 
 
