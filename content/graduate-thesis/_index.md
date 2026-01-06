@@ -14,7 +14,8 @@ draft = false
 
 ### Self-learning note
 
-[measure theory and probability]({{< ref "/graduate-thesis/measure/" >}})
-[the Bessel process]({{< ref "/graduate-thesis/bessel/" >}})
+[measure theory and probability]({{< relref "measure/" >}})
+[the Bessel process]({{< relref "bessel/" >}})
+
 
 
