@@ -2,7 +2,7 @@
 title: "Measure Theory and Probablity "
 draft: false
 layout: "single"
-showTitle: false
+hideTitle: true
 ---
 
 ### Reference {#reference}

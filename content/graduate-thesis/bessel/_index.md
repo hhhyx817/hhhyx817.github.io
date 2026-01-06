@@ -2,7 +2,7 @@
 title: "Bessel Process"
 draft: false
 layout: "single"
-showTitle: false
+hideTitle: true
 ---
 
 Coming soon.

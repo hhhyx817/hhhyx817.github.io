@@ -2,7 +2,7 @@
 title: "Graduate Thesis"
 draft: false
 layout: "single"
-showTitle: false
+hideTitle: true
 ---
 
 
