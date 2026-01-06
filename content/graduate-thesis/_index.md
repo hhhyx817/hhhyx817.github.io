@@ -1,5 +1,5 @@
 +++
-title = "Self Learn Notes"
+title = " "
 draft = false
 +++
 
@@ -14,7 +14,8 @@ draft = false
 
 ### Self-learning note
 
-[measure theory and probability]({{< relref "measure/" >}})
+[measure theory and probability]({{< relref "measure/" >}})<br>
+
 [the Bessel process]({{< relref "bessel/" >}})
 
 

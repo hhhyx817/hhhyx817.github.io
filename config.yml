@@ -49,7 +49,7 @@ menu:
       weight: 20
 
     - identifier: graduate-thesis
-      name: Gaduate Thesis
+      name: Graduate Thesis
       url: /graduate-thesis/
       weight: 20
 

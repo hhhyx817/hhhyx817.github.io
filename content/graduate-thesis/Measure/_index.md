@@ -1,9 +1,9 @@
 ---
-title: "self learn: measure theory and probability"
+title: " "
 draft: false
 layout: "single"
 ---
-
+## self learn: measure theory and probabilit
 ### Reference {#reference}
 -   Marek Capinski, Ekkehard KoppMarek, _Measure Integral and Probability_
 
