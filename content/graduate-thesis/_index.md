@@ -1,7 +1,10 @@
-+++
-title = " "
-draft = false
-+++
+---
+title: "Graduate Thesis"
+draft: false
+layout: "single"
+showTitle: false
+---
+
 
 ### Reference
   
