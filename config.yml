@@ -48,6 +48,11 @@ menu:
       url: /coursework/all-courses/
       weight: 20
 
+    - identifier: graduate-thesis
+      name: Gaduate Thesis
+      url: /graduate-thesis/
+      weight: 20
+
     # - identifier: sustech
     #   name: SUSTech
     #   url: "https://math.sustech.edu.cn/?lang=en"
