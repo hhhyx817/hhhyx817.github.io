@@ -17,41 +17,51 @@ draft = false
 
 ## Selected Coursework {#coursework}
 
+**Mathematical Foundations for Systems Modeling**
+- Probability Theory (100)  
+- Mathematical Statistics (90)  
 - Functional Analysis (93)  
-- Abstract Algebra (Honors, 83)  
-- Differential Geometry (90)    
 - Partial Differential Equations (Honors, 91)  
-- Data Structures and Algorithm Analysis (93)  
-- Topology (University of Toronto, A+)
 - Problem Solving Seminar (University of Toronto, A+)
-- Set Theory (University of Toronto, in progress)  
+
+**Modeling, Optimization, and Computation**
+- Operations Research and Optimization (88)  
+- Data Structures and Algorithm Analysis (93)  
+
+**Advanced Proof-Based Training**
+- Abstract Algebra (Honors, 83)
+- Differential Geometry (90)
+- Topology (University of Toronto, A+) 
+- Set Theory (University of Toronto, graduate level, C)
+- Advanced Functional Analysis (Graduate level, in progress)
+
 
 ---
 
 ## Research Experience {#research}
 
-**Multiple Testing Methods for Forgery Detection with Conformal Risk Control**  
+**Multiple Testing and Conformal Risk Control for Image Forgery Detection**  
 Southern University of Science and Technology, Department of Statistics and Data Science  
 Advisor: Assistant Professor Hongxin Wei  
 
-- Designed multiple-testing procedures for pixel-wise and cluster-wise image forgery detection.  
-- Developed FDR control methods with high-probability guarantees in conformal prediction settings.
+- Integrated multiple hypothesis testing and conformal calibration frameworks for large-scale pixel-wise and cluster-wise forgery detection.  
+- Evaluated trade-offs between detection power, false discovery rate, and computational feasibility under non-ideal conditions, including dependence and covariate shift.  
+- Treated statistical calibration as a system-level decision problem under operational constraints rather than isolated methodological optimization.
 
-**Subspace Diffusion and Linear Reconstruction (Ongoing)**  
+**Subspace Diffusion and Linear Reconstruction (Exploratory Study, in progress)**  
 University of British Columbia, Department of Mathematics  
 Advisor: Associate Professor Yankai Cao; PhD student Chaojie Ji  
 
-- Analyzed stochastic reconstruction of orthogonal components caused by subspace upsampling and its effect on stability and image fidelity.  
-- Utilized local linearity and low-rank Jacobian structure of the posterior mean predictor (PMP).  
-- Developed a low-rank linear operator to replace random high-dimensional reconstruction, improving stability of multi-stage subspace diffusion.
-
+- Conducted a literature-based exploratory study on diffusion models with emphasis on sampling efficiency under computational constraints.  
+- Analyzed approximate local linearity of the posterior mean predictor and investigated deterministic linear reconstruction as an alternative to stochastic upsampling.  
+- Examined stability–accuracy trade-offs in multi-stage diffusion pipelines, reflecting design considerations common in large-scale engineering systems.
 ---
 
 ## Skills {#skills}
 
-- **Programming**: Python (PyTorch, NumPy, pandas), Java, R, Scala, MATLAB  
-- **Models & Methods**: Generative models (VAE, diffusion), neural networks, statistical methods  
-- **Others**: Linux shell, web scraping
+- **Programming**:  Python (PyTorch, NumPy, pandas), MATLAB (numerical methods), Java, R, Scala  
+- **Models & Methods(Applied)**: Generative models (VAE, diffusion), neural networks, statistical inference
+- **Others**: Linux shell, Git-based version control, GPU-based computing environments
 
 ---
 
