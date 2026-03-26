@@ -5,4 +5,6 @@ layout: "single"
 hideTitle: true
 ---
 
-Coming soon.
+### My Note{#my-note}
+
+[Chapter 1-2](./notes.pdf)<br>   

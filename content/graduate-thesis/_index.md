@@ -19,7 +19,7 @@ hideTitle: true
 
 [measure theory and probability]({{< relref "measure/" >}})<br>
 
-[the Bessel process]({{< relref "bessel/" >}})
+[Bessel process]({{< relref "bessel/" >}})
 
-
+[Branchng process]({{< relref "branching/" >}})
 
