@@ -1,5 +1,5 @@
 ---
-title: "Bessel Process"
+title: "Branching Process"
 draft: false
 layout: "single"
 hideTitle: true

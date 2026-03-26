@@ -1,5 +1,5 @@
 ---
-title: "Graduate Thesis"
+title: "Undergraduate Thesis"
 draft: false
 layout: "single"
 hideTitle: true
