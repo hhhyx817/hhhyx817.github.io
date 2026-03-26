@@ -48,9 +48,9 @@ menu:
       url: /coursework/all-courses/
       weight: 20
 
-    - identifier: graduate-thesis
-      name: Graduate Thesis
-      url: /graduate-thesis/
+    - identifier: undergraduate-thesis
+      name: Undergraduate Thesis
+      url: /undergraduate-thesis/
       weight: 20
 
     # - identifier: sustech
