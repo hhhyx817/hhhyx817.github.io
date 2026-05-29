@@ -5,7 +5,7 @@ draft = false
 
 ### Mathematics
 
-## Southern University of Science and Technology {#sustech}
+### Southern University of Science and Technology {#sustech}
 
 [MA219 Abstract Algebra (H), 2024 Fall]({{< relref "aa" >}})
 
@@ -17,7 +17,7 @@ draft = false
 
 [Bachelor Thesis]({{< relref "thesis" >}})
 
-## University of Toronto {#utoronto}
+### University of Toronto {#utoronto}
 
 [MAT327 Topology, 2025 Fall]({{< relref "topo" >}})
 
