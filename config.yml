@@ -38,11 +38,6 @@ menu:
       url: /
       weight: 1
 
-    - identifier: cv
-      name: CV
-      url: /cv/
-      weight: 10
-
     - identifier: coursework
       name: Coursework
       url: /coursework/all-courses/
