@@ -15,6 +15,8 @@ draft = false
 
 [MA327 Differential Geometry, 2025 Spring]({{< relref "diff-geo" >}})
 
+[Bachelor Thesis]({{< relref "thesis" >}})
+
 ## University of Toronto {#utoronto}
 
 [MAT327 Topology, 2025 Fall]({{< relref "topo" >}})

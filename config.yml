@@ -48,11 +48,6 @@ menu:
       url: /coursework/all-courses/
       weight: 20
 
-    - identifier: undergraduate-thesis
-      name: Undergraduate Thesis
-      url: /undergraduate-thesis/
-      weight: 20
-
     # - identifier: sustech
     #   name: SUSTech
     #   url: "https://math.sustech.edu.cn/?lang=en"
