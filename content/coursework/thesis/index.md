@@ -8,7 +8,7 @@ hideTitle: true
 
 ### Bachelor Thesis
 
-- [Final Thesis Submission](./final_submit.pdf)
+- [Final Thesis Submission](./final_submit.pdf) 
 
 ### My Notes
 
